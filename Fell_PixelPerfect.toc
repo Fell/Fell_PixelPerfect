@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: Fell @ Rising-Gods
+## Version: 1.0
+## Title: Fell's Pixel Perfect Interface
+## Notes: Ensures, that the default interface always looks sharp and pixel perfect.
+
+Fell_PixelPerfect.lua
