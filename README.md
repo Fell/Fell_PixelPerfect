@@ -11,7 +11,7 @@ While this problem has been fixed in the Cataclysm expansion, this addon provide
 
 ## How to install
 
-1. [Download the latest Release]().
+1. [Download the latest Release](https://github.com/Fell/Fell_PixelPerfect/releases/download/1.0/Fell_PixelPerfect-1.0.zip).
 2. Extract `Fell_PixelPerfect` into your `World of Warcraft\Interface\AddOns` folder.
 3. That's it! No configuration needed. If you encounter issues, simply deactivate the addon on the character selection screen.
 
